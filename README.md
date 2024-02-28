@@ -1,2 +1,2 @@
-# spam-detect-
-## spam detection machine learning algorithm under progress
+# MESSAGE-spam-detect-
+## spam detection USING BINOMIAL NAIVE BASED CLASSIFICATION.
